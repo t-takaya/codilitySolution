@@ -1,6 +1,7 @@
 package lesson1
 
 object BinaryGap {
+  //https://app.codility.com/demo/results/trainingYXE6WM-DPY/
   def solution(n: Int): Int = {
     if(n == 0) return 0
 
