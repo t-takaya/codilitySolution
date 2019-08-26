@@ -9,7 +9,7 @@
 - [CyclicRotation](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson2/CyclicRotation.scala) 100%
 
 ## Lesson3 - Time Complexity
-- FrogJmp
+- [FrogJmp](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson3/FrogJmp.scala) 100%
 - PermMissingElem
 - TapeEquilibrium
 
