@@ -5,7 +5,7 @@
 - [BinaryGap](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson1/BinaryGap.scala) 100%
 
 ## Lesson2 - Arrays
-- OddOccurrencesInArray
+- [OddOccurrencesInArray](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson2/OddOccurrencesInArray.scala) 100%
 - CyclicRotation
 
 ## Lesson3 - Time Complexity
