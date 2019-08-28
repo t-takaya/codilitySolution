@@ -1,5 +1,5 @@
-# Codility Lesson in Scala
- My solution for [Codility](https://app.codility.com/programmers/lessons/1-iterations/) Lesson in scala  
+# Codility Lesson
+[Codility](https://app.codility.com/programmers/lessons/1-iterations/) 
  　
 ## Lesson1 - Iterations
 - [BinaryGap](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson1/BinaryGap.scala) 100%
@@ -10,7 +10,7 @@
 
 ## Lesson3 - Time Complexity
 - [FrogJmp](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson3/FrogJmp.scala) 100%
-- PermMissingElem
+- [PermMissingElem](https://github.com/t-takaya/codilitySolution/blob/master/src/main/scala/lesson3/PermMissingElem.scala) 100%
 - TapeEquilibrium
 
 ## Lesson4 - Counting Elements
